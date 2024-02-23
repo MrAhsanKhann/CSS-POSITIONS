@@ -1,0 +1,72 @@
+.left-container{
+position: relative;
+background-color:aqua;
+width: 80vw;
+height: 60vh;
+
+}
+
+img{
+    position: absolute;
+    width: 3vw;
+    height: 3vh;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+b{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 15px;
+
+}
+h1{
+position: absolute;
+margin-top: 250px;
+position: absolute;
+width: 200px;
+margin-left: 20px;
+
+
+}
+.grid{
+    position: absolute;
+    width: 30vw;
+    height: 30vh;
+    margin: 30px 230px;
+}
+.box{
+    position: absolute;
+width: 12vw ;
+height: 12vh;
+margin-left: 317px;
+margin-top: 163px ;
+}
+.design{
+    position: absolute;
+width: 15vw;
+height: 10vh;
+margin-left: 333px ;
+margin-top: 9px;
+
+
+}
+.arow{
+    position: absolute;
+margin-top: 89px;
+margin-left: 355px;
+width: 13vw;
+height: 13vh;
+
+}
+.globe{
+position: absolute;
+width: 14vw;
+height: 5vh;
+margin-top: 130px;
+margin-left: 210px;
+
+}
+.curve{
+    position: absolute;
+    width: 20vw;
+}
